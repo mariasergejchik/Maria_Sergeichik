@@ -1,0 +1,15 @@
+h1{
+    text-align:right;
+    font-style:italic;
+    font-weight: 1000;
+    color:chartreuse ;
+}
+p{
+    color: rgb(43, 226, 92);
+}
+.vip{
+    color: rgb(109, 79, 40); font-size: larger; font-style: italic;
+}
+.super-vip{
+    color: crimson; font-weight: 400; font-style: oblique;
+}

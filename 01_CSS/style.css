@@ -1,0 +1,13 @@
+h1{
+    text-align: justify;
+    color: blue;
+}
+p{
+    color: blueviolet;
+}
+.vip{
+    color: rgb(109, 79, 40); font-size: larger; font-style: italic;
+}
+.super-vip{
+    color: crimson; font-weight: 400; font-style: oblique;
+}
